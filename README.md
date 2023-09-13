@@ -1,4 +1,4 @@
-# Week5Challenge
+# Workday Planner
 
 This website is a work day planner that will show the current time, save your daily work schedule, and desplay each hour with a corrisponding color for past present and future events based on the current time.
 https://jfujan.github.io/Week5Challenge/
